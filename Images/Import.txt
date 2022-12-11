@@ -1,0 +1,16 @@
+import <module name>
+
+<module name>.<content>
+
+----------------------------------------------------
+
+from <module name> import <content>
+
+( dar in ravesh khod module import nemishe )
+
+----------------------------------------------------
+
+from <module name> import *
+
+( dar in ravesh tamami content yek module import mishe )
+
